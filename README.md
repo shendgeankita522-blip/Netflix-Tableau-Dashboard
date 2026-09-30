@@ -65,13 +65,11 @@ The analysis uses `Dataset/netflix_titles.csv`, which includes metadata such as:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Reader](https://www.tableau.com/products/reader).
 
 ### Running the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Netflix-Tableau-Dashboard.git
+   git clone https://github.com/shendgeankita522-blip/Netflix-Tableau-Dashboard.git
    cd Netflix-Tableau-Dashboard
    ```
 2. Open `Netlfix _Dashboard.twbx` directly in Tableau Desktop or Tableau Reader. The `.twbx` packaged format includes the underlying extracted data.
